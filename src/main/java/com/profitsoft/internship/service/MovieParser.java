@@ -34,9 +34,16 @@ public class MovieParser {
         try {
             JsonParser parser = MAPPER.createParser(file);
             JsonToken token = parser.nextToken();
+
             if (token == JsonToken.START_ARRAY) {
-                parser.nextToken();
+                token = parser.nextToken();
             }
+
+            if (token == JsonToken.END_ARRAY || token == null) {
+                parser.close();
+                return Collections.emptyIterator();
+            }
+
             return MAPPER.readValues(parser, Movie.class);
 
         } catch (IOException ex){
