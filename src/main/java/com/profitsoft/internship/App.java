@@ -14,35 +14,26 @@ import java.util.stream.Collectors;
 
 public class App {
 
-    private static final String INPUT_FOLDER = "data";
     private static final String OUTPUT_FOLDER = "statistics";
     private static final Logger LOGGER = Logger.getLogger(App.class.getName());
 
-
     public static void main(String[] args) {
 
-        File dataDir = new File(INPUT_FOLDER);
+        final String pathToFile = args[0];
+        final String attribute = args[1];
 
-        if (!dataDir.exists()) {
-            dataDir.mkdirs();
-        }
-
-        Scanner scanner = new Scanner(System.in);
-        System.out.println("Enter attribute (title, director_name, release_year, minutesDuration, comments):");
-        String attribute = scanner.nextLine();
+        File dataDir = new File(pathToFile);
 
         ParallelProcessor processor = new ParallelProcessor();
-
-        processor.process(new File(INPUT_FOLDER), attribute, 1);
+        processor.process(new File(pathToFile), attribute, 1);
 
         int[] threads = {1, 2, 4, 8};
         Map<String, Integer> result = null;
 
         LOGGER.log(Level.INFO,"Performance testing:");
         for (int t : threads) {
-            System.gc();
             long start = System.currentTimeMillis();
-            result = processor.process(new File(INPUT_FOLDER), attribute, t);
+            result = processor.process(new File(pathToFile), attribute, t);
             long end = System.currentTimeMillis();
             LOGGER.log(Level.INFO,"Threads: " + t + " | Time: " + (end - start) + " ms");
         }
