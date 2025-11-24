@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Inception",
+    "director_name": "Christopher Nolan",
+    "release_year": 2010,
+    "description": "A thief who steals corporate secrets through the use of dream-sharing technology...",
+    "minutes_duration": 148,
+    "comments": ["Great movie!", "Mind blowing"]
+  },
+  {
+    "title": "The Matrix",
+    "director_name": "Lana Wachowski",
+    "release_year": 1999,
+    "description": "A computer hacker learns from mysterious rebels about the true nature of his reality...",
+    "minutes_duration": 136,
+    "comments": ["Classic", "Red pill"]
+  },
+  {
+    "title": "Interstellar",
+    "director_name": "Christopher Nolan",
+    "release_year": 2014,
+    "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+    "minutes_duration": 169,
+    "comments": ["Emotional", "Sci-fi masterpiece"]
+  },
+  {
+    "title": "Inception",
+    "director_name": "Christopher Nolan",
+    "release_year": 2010,
+    "description": "A thief who steals corporate secrets through the use of dream-sharing technology...",
+    "minutes_duration": 148,
+    "comments": ["Great movie!", "Mind blowing"]
+  },
+  {
+    "title": "The Matrix",
+    "director_name": "Lana Wachowski",
+    "release_year": 1999,
+    "description": "A computer hacker learns from mysterious rebels about the true nature of his reality...",
+    "minutes_duration": 136,
+    "comments": ["Classic", "Red pill"]
+  },
+  {
+    "title": "Interstellar",
+    "director_name": "Christopher Nolan",
+    "release_year": 2014,
+    "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+    "minutes_duration": 169,
+    "comments": ["Emotional", "Sci-fi masterpiece"]
+  },
+  {
+    "title": "Inception",
+    "director_name": "Christopher Nolan",
+    "release_year": 2010,
+    "description": "A thief who steals corporate secrets through the use of dream-sharing technology...",
+    "minutes_duration": 148,
+    "comments": ["Great movie!", "Mind blowing"]
+  },
+  {
+    "title": "Interstellar",
+    "director_name": "Christopher Nolan",
+    "release_year": 2014,
+    "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+    "minutes_duration": 169,
+    "comments": ["Emotional", "Sci-fi masterpiece"]
+  }
+]

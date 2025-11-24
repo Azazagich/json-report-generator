@@ -1,0 +1,402 @@
+[
+  {
+    "title": "Oppenheimer",
+    "director_name": "Christopher Nolan",
+    "release_year": 2023,
+    "description": "The story of American scientist J. Robert Oppenheimer and his role in the development of the atomic bomb.",
+    "minutes_duration": 180,
+    "comments": ["Cinematography is art", "Intense sound design"]
+  },
+  {
+    "title": "Barbie",
+    "director_name": "Greta Gerwig",
+    "release_year": 2023,
+    "description": "Barbie suffers a crisis that leads her to question her world and her existence.",
+    "minutes_duration": 114,
+    "comments": ["Surprisingly deep", "Ryan Gosling steals the show"]
+  },
+  {
+    "title": "Everything Everywhere All At Once",
+    "director_name": "Daniel Kwan",
+    "release_year": 2022,
+    "description": "A middle-aged Chinese immigrant is swept up into an insane adventure in which she alone can save the existence by exploring other universes.",
+    "minutes_duration": 139,
+    "comments": ["Mind bending", "Emotional roller coaster"]
+  },
+  {
+    "title": "Top Gun: Maverick",
+    "director_name": "Joseph Kosinski",
+    "release_year": 2022,
+    "description": "After thirty years, Maverick is still pushing the envelope as a top naval aviator, but must confront ghosts of his past.",
+    "minutes_duration": 130,
+    "comments": ["Real jets!", "Better than the original"]
+  },
+  {
+    "title": "The Batman",
+    "director_name": "Matt Reeves",
+    "release_year": 2022,
+    "description": "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption.",
+    "minutes_duration": 176,
+    "comments": ["Dark detective story", "Nirvana song fits perfectly"]
+  },
+  {
+    "title": "Knives Out",
+    "director_name": "Rian Johnson",
+    "release_year": 2019,
+    "description": "A detective investigates the death of a patriarch of an eccentric, combative family.",
+    "minutes_duration": 130,
+    "comments": ["Great whodunit", "Donut hole theory"]
+  },
+  {
+    "title": "Glass Onion: A Knives Out Mystery",
+    "director_name": "Rian Johnson",
+    "release_year": 2022,
+    "description": "Famed Southern detective Benoit Blanc travels to Greece for his latest case.",
+    "minutes_duration": 139,
+    "comments": ["Fun sequel", "Satire on rich people"]
+  },
+  {
+    "title": "Get Out",
+    "director_name": "Jordan Peele",
+    "release_year": 2017,
+    "description": "A young African-American visits his white girlfriend's parents for the weekend, where his simmering uneasiness about their reception of him reaches a boiling point.",
+    "minutes_duration": 104,
+    "comments": ["Creepy", "Social thriller"]
+  },
+  {
+    "title": "Us",
+    "director_name": "Jordan Peele",
+    "release_year": 2019,
+    "description": "A family's serene beach vacation turns to chaos when their doppelgängers appear and begin to terrorize them.",
+    "minutes_duration": 116,
+    "comments": ["Scary concept", "Great acting"]
+  },
+  {
+    "title": "Nope",
+    "director_name": "Jordan Peele",
+    "release_year": 2022,
+    "description": "The residents of a lonely gulch in inland California bear witness to an uncanny and chilling discovery.",
+    "minutes_duration": 130,
+    "comments": ["Unique sci-fi", "Visual spectacle"]
+  },
+  {
+    "title": "Hereditary",
+    "director_name": "Ari Aster",
+    "release_year": 2018,
+    "description": "A grieving family is haunted by tragic and disturbing occurrences.",
+    "minutes_duration": 127,
+    "comments": ["Terrifying", "Toni Collette was robbed of an Oscar"]
+  },
+  {
+    "title": "Midsommar",
+    "director_name": "Ari Aster",
+    "release_year": 2019,
+    "description": "A couple travels to Sweden to visit a rural hometown's fabled mid-summer festival. What begins as an idyllic retreat quickly devolves into an increasingly violent competition.",
+    "minutes_duration": 148,
+    "comments": ["Daylight horror", "Disturbing"]
+  },
+  {
+    "title": "The Avengers",
+    "director_name": "Joss Whedon",
+    "release_year": 2012,
+    "description": "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army.",
+    "minutes_duration": 143,
+    "comments": ["Iconic circle shot", "Hulk smash"]
+  },
+  {
+    "title": "Avengers: Infinity War",
+    "director_name": "Anthony Russo",
+    "release_year": 2018,
+    "description": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos.",
+    "minutes_duration": 149,
+    "comments": ["Thanos is right", "That snap"]
+  },
+  {
+    "title": "Avengers: Endgame",
+    "director_name": "Anthony Russo",
+    "release_year": 2019,
+    "description": "After the devastating events of Infinity War, the universe is in ruins. The Avengers assemble once more.",
+    "minutes_duration": 181,
+    "comments": ["I love you 3000", "Epic conclusion"]
+  },
+  {
+    "title": "Iron Man",
+    "director_name": "Jon Favreau",
+    "release_year": 2008,
+    "description": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+    "minutes_duration": 126,
+    "comments": ["Started it all", "RDJ is perfect"]
+  },
+  {
+    "title": "Black Panther",
+    "director_name": "Ryan Coogler",
+    "release_year": 2018,
+    "description": "T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future.",
+    "minutes_duration": 134,
+    "comments": ["Wakanda Forever", "Great villain"]
+  },
+  {
+    "title": "Guardians of the Galaxy",
+    "director_name": "James Gunn",
+    "release_year": 2014,
+    "description": "A group of intergalactic criminals must pull together to stop a fanatical warrior with plans to purge the universe.",
+    "minutes_duration": 121,
+    "comments": ["Awesome mix tape", "I am Groot"]
+  },
+  {
+    "title": "Thor: Ragnarok",
+    "director_name": "Taika Waititi",
+    "release_year": 2017,
+    "description": "Imprisoned on the planet Sakaar, Thor must race against time to return to Asgard and stop Ragnarök.",
+    "minutes_duration": 130,
+    "comments": ["Funniest Marvel movie", "Led Zeppelin song"]
+  },
+  {
+    "title": "Deadpool",
+    "director_name": "Tim Miller",
+    "release_year": 2016,
+    "description": "A wisecracking mercenary gets experimented on and becomes immortal but ugly, and sets out to track down the man who ruined his looks.",
+    "minutes_duration": 108,
+    "comments": ["Fourth wall break", "Maximum effort"]
+  },
+  {
+    "title": "Logan",
+    "director_name": "James Mangold",
+    "release_year": 2017,
+    "description": "In a future where mutants are nearly extinct, an elderly and weary Logan leads a quiet life...",
+    "minutes_duration": 137,
+    "comments": ["Gritty western style", "Sad ending"]
+  },
+  {
+    "title": "Coco",
+    "director_name": "Lee Unkrich",
+    "release_year": 2017,
+    "description": "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather.",
+    "minutes_duration": 105,
+    "comments": ["Remember me", "Tearjerker"]
+  },
+  {
+    "title": "Inside Out",
+    "director_name": "Pete Docter",
+    "release_year": 2015,
+    "description": "After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate a new city.",
+    "minutes_duration": 95,
+    "comments": ["Creative concept", "Bing Bong"]
+  },
+  {
+    "title": "Up",
+    "director_name": "Pete Docter",
+    "release_year": 2009,
+    "description": "78-year-old Carl Fredricksen travels to Paradise Falls in his house equipped with balloons, inadvertently taking a young stowaway.",
+    "minutes_duration": 96,
+    "comments": ["Opening scene broke me", "Adventure is out there"]
+  },
+  {
+    "title": "WALL·E",
+    "director_name": "Andrew Stanton",
+    "release_year": 2008,
+    "description": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will decide the fate of mankind.",
+    "minutes_duration": 98,
+    "comments": ["Minimal dialogue", "Beautiful message"]
+  },
+  {
+    "title": "Finding Nemo",
+    "director_name": "Andrew Stanton",
+    "release_year": 2003,
+    "description": "After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.",
+    "minutes_duration": 100,
+    "comments": ["Just keep swimming", "P. Sherman 42 Wallaby Way"]
+  },
+  {
+    "title": "The Incredibles",
+    "director_name": "Brad Bird",
+    "release_year": 2004,
+    "description": "A family of undercover superheroes, while trying to live the quiet suburban life, are forced into action to save the world.",
+    "minutes_duration": 115,
+    "comments": ["No capes!", "Honey where is my super suit"]
+  },
+  {
+    "title": "Ratatouille",
+    "director_name": "Brad Bird",
+    "release_year": 2007,
+    "description": "A rat who can cook makes an unusual alliance with a young kitchen worker at a famous restaurant.",
+    "minutes_duration": 111,
+    "comments": ["Anyone can cook", "Food looks delicious"]
+  },
+  {
+    "title": "Soul",
+    "director_name": "Pete Docter",
+    "release_year": 2020,
+    "description": "After landing the gig of a lifetime, a New York jazz pianist suddenly finds himself trapped in a strange land between Earth and the afterlife.",
+    "minutes_duration": 100,
+    "comments": ["Jazz music", "Meaning of life"]
+  },
+  {
+    "title": "Toy Story 3",
+    "director_name": "Lee Unkrich",
+    "release_year": 2010,
+    "description": "The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college.",
+    "minutes_duration": 103,
+    "comments": ["The furnace scene", "Perfect trilogy end"]
+  },
+  {
+    "title": "No Country for Old Men",
+    "director_name": "Ethan Coen",
+    "release_year": 2007,
+    "description": "Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande.",
+    "minutes_duration": 122,
+    "comments": ["Scariest villain without shouting", "Tense"]
+  },
+  {
+    "title": "Fargo",
+    "director_name": "Joel Coen",
+    "release_year": 1996,
+    "description": "Jerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the pregnant Marge Gunderson.",
+    "minutes_duration": 98,
+    "comments": ["Oh ya betcha", "Snowy thriller"]
+  },
+  {
+    "title": "The Big Lebowski",
+    "director_name": "Joel Coen",
+    "release_year": 1998,
+    "description": "Jeff 'The Dude' Lebowski, mistaken for a millionaire of the same name, seeks restitution for his ruined rug.",
+    "minutes_duration": 117,
+    "comments": ["The rug tied the room together", "The Dude abides"]
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director_name": "Quentin Tarantino",
+    "release_year": 1992,
+    "description": "When a simple jewelry heist goes horribly wrong, the surviving criminals begin to suspect that one of them is a police informant.",
+    "minutes_duration": 99,
+    "comments": ["Stuck in the middle with you", "Indie classic"]
+  },
+  {
+    "title": "Kill Bill: Vol. 1",
+    "director_name": "Quentin Tarantino",
+    "release_year": 2003,
+    "description": "After awakening from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her.",
+    "minutes_duration": 111,
+    "comments": ["Stylish action", "Yellow suit"]
+  },
+  {
+    "title": "Inglourious Basterds",
+    "director_name": "Quentin Tarantino",
+    "release_year": 2009,
+    "description": "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans.",
+    "minutes_duration": 153,
+    "comments": ["Opening scene is intense", "Gorlami"]
+  },
+  {
+    "title": "Die Hard",
+    "director_name": "John McTiernan",
+    "release_year": 1988,
+    "description": "An NYPD officer tries to save his wife and several others taken hostage by German terrorists during a Christmas party.",
+    "minutes_duration": 132,
+    "comments": ["Yippee Ki Yay", "Christmas movie"]
+  },
+  {
+    "title": "The Breakfast Club",
+    "director_name": "John Hughes",
+    "release_year": 1985,
+    "description": "Five high school students meet in Saturday detention and discover how they have a lot more in common than they thought.",
+    "minutes_duration": 97,
+    "comments": ["Don't you forget about me", "80s classic"]
+  },
+  {
+    "title": "Ferris Bueller's Day Off",
+    "director_name": "John Hughes",
+    "release_year": 1986,
+    "description": "A high school wise guy is determined to have a day off from school, despite the principal's obsession with trying to catch him.",
+    "minutes_duration": 103,
+    "comments": ["Life moves pretty fast", "Iconic"]
+  },
+  {
+    "title": "Superbad",
+    "director_name": "Greg Mottola",
+    "release_year": 2007,
+    "description": "Two co-dependent high school seniors are forced to deal with separation anxiety after their plan to stage a booze-soaked party goes awry.",
+    "minutes_duration": 113,
+    "comments": ["McLovin", "Hilarious"]
+  },
+  {
+    "title": "The Hangover",
+    "director_name": "Todd Phillips",
+    "release_year": 2009,
+    "description": "Three buddies wake up from a bachelor party in Las Vegas, with no memory of the previous night and the bachelor missing.",
+    "minutes_duration": 100,
+    "comments": ["Classic comedy", "Mike Tyson cameo"]
+  },
+  {
+    "title": "Lady Bird",
+    "director_name": "Greta Gerwig",
+    "release_year": 2017,
+    "description": "In 2002, an artistically inclined seventeen-year-old girl comes of age in Sacramento, California.",
+    "minutes_duration": 94,
+    "comments": ["Coming of age", "Mother daughter relationship"]
+  },
+  {
+    "title": "Little Women",
+    "director_name": "Greta Gerwig",
+    "release_year": 2019,
+    "description": "Jo March reflects back and forth on her life, telling the beloved story of the March sisters.",
+    "minutes_duration": 135,
+    "comments": ["Cozy", "Great adaptation"]
+  },
+  {
+    "title": "Her",
+    "director_name": "Spike Jonze",
+    "release_year": 2013,
+    "description": "In a near future, a lonely writer develops an unlikely relationship with an operating system designed to meet his every need.",
+    "minutes_duration": 126,
+    "comments": ["Melancholic", "Beautiful colors"]
+  },
+  {
+    "title": "Lost in Translation",
+    "director_name": "Sofia Coppola",
+    "release_year": 2003,
+    "description": "A faded movie star and a neglected young woman form an unlikely bond after crossing paths in Tokyo.",
+    "minutes_duration": 102,
+    "comments": ["Atmospheric", "Tokyo vibe"]
+  },
+  {
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "director_name": "Michel Gondry",
+    "release_year": 2004,
+    "description": "When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories.",
+    "minutes_duration": 108,
+    "comments": ["Jim Carrey dramatic role", "Mind bending romance"]
+  },
+  {
+    "title": "Uncut Gems",
+    "director_name": "Benny Safdie",
+    "release_year": 2019,
+    "description": "With his debts mounting and angry collectors closing in, a fast-talking New York City jeweler risks everything in hope of staying afloat.",
+    "minutes_duration": 135,
+    "comments": ["Stressful to watch", "Adam Sandler is great"]
+  },
+  {
+    "title": "The Lighthouse",
+    "director_name": "Robert Eggers",
+    "release_year": 2019,
+    "description": "Two lighthouse keepers try to maintain their sanity while living on a remote and mysterious New England island in the 1890s.",
+    "minutes_duration": 109,
+    "comments": ["Black and white", "Crazy acting"]
+  },
+  {
+    "title": "The Witch",
+    "director_name": "Robert Eggers",
+    "release_year": 2015,
+    "description": "A family in 1630s New England is torn apart by the forces of witchcraft, black magic and possession.",
+    "minutes_duration": 92,
+    "comments": ["Slow burn horror", "Wouldst thou like to live deliciously?"]
+  },
+  {
+    "title": "The Departed",
+    "director_name": "Martin Scorsese",
+    "release_year": 2006,
+    "description": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+    "minutes_duration": 151,
+    "comments": ["Star cast", "Twisty plot"]
+  }
+]
